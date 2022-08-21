@@ -11,7 +11,7 @@ A: 232792560
 # The number must go in increments of 20, becasue 20 has to divide out equally.
 num = 20
 
-# Create simple loop with a stop when a number is reached.
+# Create simple loop with a stop when a number is reached
 go = True
 while go:
     num += 20
