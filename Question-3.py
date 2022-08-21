@@ -8,7 +8,7 @@ A: 6857
 
 """
 
-# Once a factor is found, divide out. At the end, you will be left with the highest number
+# Once a factor is found, divide out. At the end, you will be left with the highest number.
 x = 600851475143
 y = 3
 
@@ -17,7 +17,7 @@ while x > 1:
         x = x/y
     y += 2
 
-# Subtract 2 because y will have 2 added to it before it checks and breaks the loop
+# Subtract 2 because y will have 2 added to it before it checks and breaks the loop.
 print(y-2)
 
 
