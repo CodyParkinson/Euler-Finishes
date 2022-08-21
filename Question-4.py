@@ -22,7 +22,7 @@ for i in reversed(range(100, 1000)):
                     if len(palindrome)%2 == 0:
                         isPalindrome.append(palindrome)
 
-# Print the largest number from the list.
+# Print the largest number from the list
 print(max(isPalindrome))
 
 
