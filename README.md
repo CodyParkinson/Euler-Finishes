@@ -1,5 +1,5 @@
 # Euler-Finishes
-These are the Project Euler Questions I have been able to complete - Done in python Python 3.9.13
+These are the Project Euler Questions I have been able to complete - Done in Python 3.9.13
 
 Respecting the Project Euler guidelines, I will not be posting anything I solve above question 100. I know there are a lot of places with just the answers posted, so if you are looking to just boost your profile - go look for those pages. 
 
